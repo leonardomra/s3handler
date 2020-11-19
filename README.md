@@ -1,0 +1,1 @@
+This module is responsible for mananing communication of the OpenResearch API with AWS S3.
